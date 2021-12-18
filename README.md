@@ -101,3 +101,13 @@ Several toolkits are available which extend Matplotlib functionality. Some are s
 Seaborn is a library for making statistical graphics in Python. It builds on top of matplotlib and integrates closely with pandas data structures.
 
 Seaborn helps you explore and understand your data. Its plotting functions operate on dataframes and arrays containing whole datasets and internally perform the necessary semantic mapping and statistical aggregation to produce informative plots. Its dataset-oriented, declarative API lets you focus on what the different elements of your plots mean, rather than on the details of how to draw them.
+
+
+## Exploratory Data Analysis Case Studies
+
+| Project Name      | Link |
+| ----------- | ----------- |
+| Iris Dataset EDA      | [Iris EDA](https://github.com/lionelsamrat10/Data-Analysis-Tools/blob/main/Exploratory%20Data%20Analysis%20Projects/Iris%20EDA/EDA%20on%20Iris%20Dataset.ipynb)      |
+| IPL Matches Dataset EDA   | [IPL EDA](https://github.com/lionelsamrat10/Data-Analysis-Tools/blob/main/Exploratory%20Data%20Analysis%20Projects/IPL%20Dataset%20EDA/IPL%20Exploratory%20Data%20Analysis.ipynb)       |
+| FIFA Players Dataset EDA   | [FIFA EDA](https://github.com/lionelsamrat10/Data-Analysis-Tools/blob/main/Exploratory%20Data%20Analysis%20Projects/FIFA%2020%20Dataset%20EDA/FIFA%2020%20EDA%20Notebook.ipynb)        |
+| Superheroes Dataset EDA   | [Superheroes EDA](https://github.com/lionelsamrat10/Data-Analysis-Tools/blob/main/Exploratory%20Data%20Analysis%20Projects/Marvel%20Avengers%20Dataset%20EDA/Superheroes%20Dataset%20EDA.ipynb)       |
