@@ -97,3 +97,7 @@ Several toolkits are available which extend Matplotlib functionality. Some are s
 ![Seaborn](https://github.com/lionelsamrat10/Data-Analysis-Tools/blob/main/Images/seaborn.svg)
 
 [Notebook Available here](https://github.com/lionelsamrat10/Data-Analysis-Tools/blob/main/Seaborn/Seaborn%20Tutorial.ipynb)
+
+Seaborn is a library for making statistical graphics in Python. It builds on top of matplotlib and integrates closely with pandas data structures.
+
+Seaborn helps you explore and understand your data. Its plotting functions operate on dataframes and arrays containing whole datasets and internally perform the necessary semantic mapping and statistical aggregation to produce informative plots. Its dataset-oriented, declarative API lets you focus on what the different elements of your plots mean, rather than on the details of how to draw them.
