@@ -105,9 +105,9 @@ Seaborn helps you explore and understand your data. Its plotting functions opera
 
 ## Exploratory Data Analysis Case Studies
 
-| Project Name      | Link |
-| ----------- | ----------- |
-| Iris Dataset EDA      | [Iris EDA](https://github.com/lionelsamrat10/Data-Analysis-Tools/blob/main/Exploratory%20Data%20Analysis%20Projects/Iris%20EDA/EDA%20on%20Iris%20Dataset.ipynb)      |
-| IPL Matches Dataset EDA   | [IPL EDA](https://github.com/lionelsamrat10/Data-Analysis-Tools/blob/main/Exploratory%20Data%20Analysis%20Projects/IPL%20Dataset%20EDA/IPL%20Exploratory%20Data%20Analysis.ipynb)       |
-| FIFA Players Dataset EDA   | [FIFA EDA](https://github.com/lionelsamrat10/Data-Analysis-Tools/blob/main/Exploratory%20Data%20Analysis%20Projects/FIFA%2020%20Dataset%20EDA/FIFA%2020%20EDA%20Notebook.ipynb)        |
-| Superheroes Dataset EDA   | [Superheroes EDA](https://github.com/lionelsamrat10/Data-Analysis-Tools/blob/main/Exploratory%20Data%20Analysis%20Projects/Marvel%20Avengers%20Dataset%20EDA/Superheroes%20Dataset%20EDA.ipynb)       |
+|Serial Number| Project Name      | Link |
+| ----------- | ----------- | ----------- |
+|1.| Iris Dataset EDA      | [Iris EDA](https://github.com/lionelsamrat10/Data-Analysis-Tools/blob/main/Exploratory%20Data%20Analysis%20Projects/Iris%20EDA/EDA%20on%20Iris%20Dataset.ipynb)      |
+|2.| IPL Matches Dataset EDA   | [IPL EDA](https://github.com/lionelsamrat10/Data-Analysis-Tools/blob/main/Exploratory%20Data%20Analysis%20Projects/IPL%20Dataset%20EDA/IPL%20Exploratory%20Data%20Analysis.ipynb)       |
+|3.| FIFA Players Dataset EDA   | [FIFA EDA](https://github.com/lionelsamrat10/Data-Analysis-Tools/blob/main/Exploratory%20Data%20Analysis%20Projects/FIFA%2020%20Dataset%20EDA/FIFA%2020%20EDA%20Notebook.ipynb)        |
+|4.| Superheroes Dataset EDA   | [Superheroes EDA](https://github.com/lionelsamrat10/Data-Analysis-Tools/blob/main/Exploratory%20Data%20Analysis%20Projects/Marvel%20Avengers%20Dataset%20EDA/Superheroes%20Dataset%20EDA.ipynb)       |
