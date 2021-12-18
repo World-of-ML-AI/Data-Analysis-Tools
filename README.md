@@ -5,7 +5,7 @@
 A data scientist must be a good data analyzer also. This repository contains Jupyter Notebooks for all the tools one need to perform Data Analysis such that Numpy, Pandas, Matplotlib, Seaborn and also some sample case studies are also included. We have included Exploratory Data Analysis on very famous datasets like the IPL Matches Dataset, Superheroes Dataset, FIFA Players Dataset from Kaggle and also Iris Dataset by University Of California, Irvine Machine Learning Repository.
 
 ## Numpy
-![Numpy](https://raw.githubusercontent.com/lionelsamrat10/Data-Analysis-Tools/main/Images/numpy.png)
+![Numpy](https://user-images.githubusercontent.com/1217238/65354639-dd928f80-dba4-11e9-833b-bc3e8c6a737d.png)
 
 [Notebook Available here](https://github.com/lionelsamrat10/Data-Analysis-Tools/blob/main/Numpy/Numpy%20complete%20Tutorial.ipynb)
 
