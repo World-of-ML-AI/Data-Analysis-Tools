@@ -65,3 +65,11 @@ Pandas is a software library written for the Python programming language for dat
 ### Dataframes (Most Important Data Structure in Pandas)
 
 Pandas is mainly used for data analysis. Pandas allows importing data from various file formats such as comma-separated values, JSON, SQL database tables or queries, and Microsoft Excel. Pandas allows various data manipulation operations such as merging, reshaping, selecting, as well as data cleaning, and data wrangling features.
+
+## Maplotlib
+
+Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK. There is also a procedural "pylab" interface based on a state machine (like OpenGL), designed to closely resemble that of MATLAB, though its use is discouraged.[3] SciPy makes use of Matplotlib.
+
+Matplotlib was originally written by John D. Hunter. Since then it has an active development community[4] and is distributed under a BSD-style license. Michael Droettboom was nominated as matplotlib's lead developer shortly before John Hunter's death in August 2012[5] and was further joined by Thomas Caswell.[6][7] Matplotlib is a NumFOCUS fiscally sponsored project.[8]
+
+Matplotlib 2.0.x supports Python versions 2.7 through 3.10. Python 3 support started with Matplotlib 1.2. Matplotlib 1.4 is the last version to support Python 2.6.[9] Matplotlib has pledged not to support Python 2 past 2020 by signing the Python 3 Statement.[10]
