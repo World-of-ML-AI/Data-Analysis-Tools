@@ -82,12 +82,12 @@ Matplotlib 2.0.x supports Python versions 2.7 through 3.10. Python 3 support sta
 
 Several toolkits are available which extend Matplotlib functionality. Some are separate downloads, others ship with the Matplotlib source code but have external dependencies.[12]
 
-* Basemap: map plotting with various map projections, coastlines, and political boundaries
-* Cartopy: a mapping library featuring object-oriented map projection definitions, and arbitrary point, line, polygon and image transformation capabilities. (Matplotlib v1.2 and above)
-* Excel tools: utilities for exchanging data with Microsoft Excel
-* GTK tools: interface to the GTK library
-* Qt interface
-* Mplot3d: 3-D plots
-* Natgrid: interface to the natgrid library for gridding irregularly spaced data.
-* matplotlib2tikz: export to Pgfplots for smooth integration into LaTeX documents
-* Seaborn: provides an API on top of Matplotlib that offers sane choices for plot style and color defaults, defines simple high-level functions for common statistical plot types, and integrates with the functionality provided by Pandas
+* **Basemap**: map plotting with various map projections, coastlines, and political boundaries
+* **Cartopy**: a mapping library featuring object-oriented map projection definitions, and arbitrary point, line, polygon and image transformation capabilities. (Matplotlib v1.2 and above)
+* **Excel tools**: utilities for exchanging data with Microsoft Excel
+* **GTK tools**: interface to the GTK library
+* **Qt interface**
+* **Mplot3d**: 3-D plots
+* **Natgrid**: interface to the natgrid library for gridding irregularly spaced data.
+* **matplotlib2tikz**: export to Pgfplots for smooth integration into LaTeX documents
+* **Seaborn**: provides an API on top of Matplotlib that offers sane choices for plot style and color defaults, defines simple high-level functions for common statistical plot types, and integrates with the functionality provided by Pandas
